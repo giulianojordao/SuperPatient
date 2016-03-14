@@ -1,0 +1,173 @@
+<resources>
+    <string name="app_name">Super Patient</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="copyright">2015 © SmartBytes, LLC.\nAll rights reserved.</string>
+    <string name="superpatient">SUPER PATIENT</string>
+    <string name="forgot_password">Forgot password</string>
+    <string name="title_activity_terms">TermsActivity</string>
+    <string name="terms_conditions_title1">1.0 Medical assistance</string>
+    <string name="terms_conditions_title2">2.0 No warranties</string>
+    <string name="terms_conditions_title3">3.0 Interactive features</string>
+    <string name="terms_conditions_title4">4.0 Limits upon exclusions of liability</string>
+    <string name="terms_conditions_title5">5.0 Collecting personal information</string>
+    <string name="terms_conditions_title6">6.0 Using your personal information</string>
+    <string name="terms_conditions_title7">7.0 Disclosing personal information</string>
+    <string name="terms_conditions_paragraph_1"><![CDATA[<p>1.1 The games and journal feature on this app do not replace the advice or care from your physician.</p>
+<p>1.2 If you have any specific questions about any medical matter, you should consult your doctor or other professional healthcare provider.</p>
+<p>1.3 If you think you may be suffering from any medical condition, you should seek immediate medical attention.</p>
+1.4 You should never delay seeking medical advice, disregard medical advice or discontinue medical treatment because of our app.]]></string>
+    <string name="terms_conditions_paragraph_2"><![CDATA[
+    <p>2.1 The information on our app or website is provided without any representations or warranties, express or implied.</p>
+2.2 limiting the scope of Section 2.1, we do not warrant or represent that the medical information on this app or website:
+    ]]></string>
+    <string name="terms_conditions_paragraph2_1"><![CDATA[
+<p>(a) will be constantly available, or available at all; or</p>
+(b) is true, accurate, complete, current or non-misleading.
+        ]]></string>
+
+     <string name="terms_conditions_paragraph_3"><![CDATA[
+    <p>3.1 Our app and website includes interactive features that allow users to send their health information and allows clinicians to view this information.</p>
+<p>3.2 You acknowledge that, because of the limited nature of communication through our app or website interactive features, any assistance you may receive using any such features is likely to be incomplete and may even be misleading.</p>
+<p>3.3 Any assistance you may receive using any our app or website\'s interactive features does not constitute specific advice and accordingly should not be relied upon without further independent confirmation.</p>
+3.4 We do not guarantee your clinician will contact you as a result of using this app or website.
+    ]]></string>
+
+     <string name="terms_conditions_paragraph_4"><![CDATA[
+    4.1 Nothing in this disclaimer will:
+    ]]></string>
+
+    <string name="terms_conditions_paragraph2_2"><![CDATA[
+<p>(a) limit or exclude any liability for death or personal injury resulting from negligence;</p>
+<p>(b) limit or exclude any liability for fraud or fraudulent misrepresentation;</p>
+<p>(c) limit any liabilities in any way that is not permitted under applicable law; or</p>
+(d) exclude any liabilities that may not be excluded under applicable law.
+        ]]></string>
+
+    <string name="terms_conditions_paragraph_5"><![CDATA[
+    5.1 We may collect, store and use the following kinds of personal information:
+    ]]></string>
+
+     <string name="terms_conditions_paragraph2_3"><![CDATA[
+<p>(a) information that you provide to us when registering with our app or website including your name, email address, physician’s name, location, and date of birth.</p>
+<p>(b) information that you provide to us when using the services on our app or website or that is generated in the course of the use of those services including the timing, frequency and pattern of games you play and the results of your journal entries.</p>
+<p>(c) information contained in or relating to any communications that you send to us including the communication content and data associated with the communication.</p>
+(d) any other personal information that you choose to send to us.
+        ]]></string>
+
+    <string name="terms_conditions_paragraph_6"><![CDATA[
+    <p>6.1 Personal information submitted to us through our app or website will be used for the purposes specified in this policy or on the relevant pages of the app or website.</p>
+6.2 We may use your personal information to:
+    ]]></string>
+
+    <string name="terms_conditions_paragraph2_4"><![CDATA[
+<p>(a) provide your physician with your health information that will allow them to monitor your use of the app and journal entries;</p>
+<p>(b) enable your use of the services available on our app or website;</p>
+<p>(c) send you non-marketing communications;</p>
+<p>(d) send you app or website updates;</p>
+<p>(e) provide third parties with statistical information about our users. Third parties will not be able to identify any individual user from that information;</p>
+<p>(f) deal with enquiries and complaints made by or about you relating to our app or website;</p>
+<p>(g) keep our app and website secure, and prevent fraud;</p>
+(h) verify compliance with the terms and conditions governing the use of our app or website (including monitoring private messages sent through our app or website private messaging service).
+        ]]></string>
+
+    <string name="terms_conditions_paragraph_7"><![CDATA[
+    6.3 We will not, without your express consent, supply your personal information to any third party for the purpose of their or any other third party\'s direct marketing.
+    ]]></string>
+
+    <string name="terms_conditions_paragraph_8"><![CDATA[
+    <p>7.1 We may disclose your personal information to [any of our employees, officers, insurers, professional advisers, agents, suppliers or subcontractors] insofar as reasonably necessary for the purposes set out in this policy.</p>
+<p>7.2 We may disclose your personal information to any member of our group of companies (this means our subsidiaries, our ultimate holding company and all its subsidiaries) insofar as reasonably necessary for the purposes set out in this policy.</p>
+7.3 We may disclose your personal information:
+    ]]></string>
+
+    <string name="terms_conditions_paragraph2_5"><![CDATA[
+<p>(a) to the extent that we are required to do so by law;</p>
+<p>(b) in connection with any ongoing or prospective legal proceedings;</p>
+<p>(c) in order to establish, exercise or defend our legal rights (including providing information to others for the purposes of fraud prevention and reducing credit risk);</p>
+<p>(d) to the purchaser (or prospective purchaser) of any business or asset that we are (or are contemplating) selling;</p>
+<p>(e) to any person who we reasonably believe may apply to a court or other competent authority for disclosure of that personal information where, in our reasonable opinion, such court or authority would be reasonably likely to order disclosure of that personal information;</p>
+(f) Except as provided in this policy, we will not provide your personal information to third parties.
+        ]]></string>
+
+    <string name="agree_terms_conditions"><![CDATA[I Accept Terms & Conditions]]></string>
+    <string name="title_activity_lets_go">LetsGoActivity</string>
+    <string name="lets_go_1">Super Patient has just made it trough a tough time in the hospital, just like you.</string>
+    <string name="lets_go_2">Both you and Super Patient can continue to recover by conquering the brain games on the next screen and filling out your Super Journal.\n\n\nAre you ready?</string>
+    <string name="lets_go_buttontext">LET\'S GO</string>
+    <string name="title_activity_go_to_journal">GoToJournalActivity</string>
+    <string name="go_to_journal">First let’s begin by filling out the Super Journal! You can use the Super Journal as often as you would like. Otherwise, Super Patient will occasionally check in to see how you are doing. Let’s get started. How are you today?</string>
+    <string name="go_to_journal_buttontext">GO TO SUPER JOURNAL!</string>
+    <string name="title_activity_select_mood">How are you feeling today?</string>
+    <string name="feeling_good">Feeling Good</string>
+    <string name="not_feeling_good">Not Feeling Good</string>
+    <string name="title_activity_journal_feeling_good">Great! Log exactly how you are feeling in your journal. Choose as many as you like:</string>
+    <string name="title_activity_journal_not_feeling_good">Log why you are not feeling good today in your journal. Choose as many as you like:</string>
+    <string name="submit">Submit</string>
+    <string name="journal_nervous">Nervous / Anxious</string>
+    <string name="journal_trouble_sleeping">Having trouble Sleeping</string>
+    <string name="journal_disconnected">Feeling Disconnected</string>
+    <string name="journal_sad_depressed">Sad / Depressed</string>
+    <string name="journal_trouble_memory">Trouble with Thinking or Memory</string>
+    <string name="journal_irritable">Feeling Irritable</string>
+    <string name="journal_hopeless">Feeling Hopeless</string>
+    <string name="journal_harming_yourself">Thoughts of harming yourself</string>
+    <string name="journal_failure">Feeling like a failure</string>
+    <string name="journal_in_pain">Feeling in pain</string>
+    <string name="journal_happy">Feeling Happy</string>
+    <string name="journal_calm">Feeling Calm</string>
+    <string name="journal_accomplished">Feeling \nAccomplished</string>
+    <string name="journal_hopeful">Feeling Hopeful</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="super_digits">Super Digits</string>
+    <string name="super_mash_up">Super Mash Up</string>
+    <string name="super_color_block">Super Color Block</string>
+    <string name="super_speed">Super Speed</string>
+    <string name="follow_super_patient">Follow Super Patient</string>
+    <string name="main_super_journal">Super Journal</string>
+    <string name="title_activity_scale">ScaleActivity</string>
+    <string name="preferences_key">com.softwarenation.superpatient.my_shared_preferences</string>
+    <string name="preferences_user_id">userId</string>
+    <string name="preferences_log_in_entered">logInEntered</string>
+    <string name="title_activity_super_digits_intro">SuperDigitsIntroActivity</string>
+    <string name="main_game_key">RequiredGameExtra</string>
+    <string name="main_game_super_digits">SuperDigits</string>
+    <string name="main_game_super_mash_up">SuperMashUp</string>
+    <string name="main_game_super_color_block">SuperColorBlock</string>
+    <string name="games_intro_start_game">Start Game</string>
+    <string name="super_digits_intro">Super Patient is having trouble remembering things. Your mission is to help Super Patient increase his brain power by recalling the numbers in the correct order. If you miss two in a row the game is over.</string>
+    <string name="super_mash_up_intro">Super Patient is starting to remember, but now his task gets a little harder. Increase Super Patient\'s brain power by recalling both letters and numbers. Miss two, and the game is over.</string>
+    <string name="title_activity_super_digits">SuperDigitsActivity</string>
+    <string name="super_digits_title">Super Digits</string>
+    <string name="apiLoginKey">http://supericu.com/login</string>
+    <string name="apiPatientMoodKey">http://supericu.com/patientMood</string>
+    <string name="animation_string_number">animationNumber</string>
+    <string name="animation_string_question">animationQuestion</string>
+    <string name="animation_up">animationUp</string>
+    <string name="title_activity_super_color_block">SuperColorBlockActivity</string>
+    <string name="super_color_block_title">Super Color Block</string>
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="main_game_super_speed">SuperSpeed</string>
+    <string name="title_activity_super_speed">SuperSpeedActivity</string>
+    <string name="super_speed_title">Super Speed</string>
+    <string name="main_game_follow_super_patient">FollowSuperPatient</string>
+    <string name="title_activity_follow_super_patient">FollowSuperPatientActivity</string>
+    <string name="follow_super_patient_title">Follow Super Patient</string>
+    <string name="title_activity_game_menu">GameMenu</string>
+    <string name="game_menu_resume">Resume Game</string>
+    <string name="game_menu_restart">Restart Game</string>
+    <string name="game_menu_how">How To Play</string>
+    <string name="game_menu_home">Go To Home Screen</string>
+    <string name="game_menu_game_key">PausedGame</string>
+    <string name="game_menu_tag">GameMenuTag</string>
+    <string name="game_menu_tag_resume">ResumeGame</string>
+    <string name="game_menu_tag_restart">RestartGame</string>
+    <string name="game_menu_tag_main">GameMenuMain</string>
+    <string name="follow_super_patient_intro">Tap the Blocks where Super Patient appears in the correct order.</string>
+    <string name="super_color_block_intro">Choose the first letter of the COLOR of the picture that is shown.</string>
+    <string name="super_speed_intro">Help Super Patient increase his speed by identifying the pictures as fast as you can.</string>
+    <string name="main_game_from_menu_key">FromGameMenu</string>
+</resources>

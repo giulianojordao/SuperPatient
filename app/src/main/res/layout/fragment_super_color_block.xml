@@ -1,0 +1,58 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/white"
+    tools:context="com.softwarenation.superpatient.fragments.SuperColorBlockFragment">
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:src="@drawable/main_super_color"
+        android:background="@drawable/game_icon_shape"
+        />
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:orientation="vertical"
+        android:layout_marginTop="22dp"
+        android:layout_marginLeft="22dp"
+        android:layout_marginRight="22dp"
+        android:gravity="center_horizontal">
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/super_color_block_camel"
+            />
+
+        <TextView
+            android:id="@+id/games_intro_super_color_block_yellow"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="YELLOW"
+            android:textColor="@color/NotFeelingGoodRed"
+            android:textStyle="bold"
+            android:textSize="26sp"
+            android:layout_marginTop="8dp"/>
+
+        <TextView
+            android:id="@+id/games_intro_super_color_block_text"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            style="@style/textPurpleIntro"
+            android:gravity="center_horizontal"
+            android:text="@string/super_color_block_intro"/>
+        <TextView
+            android:id="@+id/games_intro_super_color_block_text1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            style="@style/textPurpleIntro"
+            android:gravity="center_horizontal"
+            android:text="Ready?"
+            android:clickable="true"
+            />
+    </LinearLayout>
+
+</LinearLayout>

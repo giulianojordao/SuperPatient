@@ -1,0 +1,42 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.softwarenation.superpatient.LetsGoActivity"
+    android:background="@color/white">
+
+    <TextView
+        android:paddingTop="16dp"
+        android:paddingLeft="16dp"
+        android:paddingRight="16dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_horizontal"
+        android:lineSpacingExtra="3sp"
+        android:text="@string/lets_go_1"
+        style="@style/textPurple"/>
+    <com.softwarenation.superpatient.utility.AnimationSad
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        />
+    <TextView
+        android:paddingLeft="16dp"
+        android:paddingRight="16dp"
+        android:layout_marginTop="10dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_horizontal"
+        style="@style/textPurple"
+        android:lineSpacingExtra="3sp"
+        android:text="@string/lets_go_2"
+        android:layout_weight="1"/>
+
+    <Button android:id="@+id/lets_go_button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/lets_go_buttontext"
+        style="@style/buttonFont"
+        />
+
+</LinearLayout>

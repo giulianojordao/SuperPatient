@@ -1,0 +1,251 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    android:id="@+id/follow_super_patient_root_layout"
+    tools:context="com.softwarenation.superpatient.FollowSuperPatientActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:background="#00FFFFFF"
+        android:paddingTop="6dp"
+        android:paddingBottom="6dp"
+        android:paddingRight="4dp">
+        <ImageView
+            android:id="@+id/follow_super_patient_menu_button"
+            android:clickable="true"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:padding="12dp"
+            android:src="@drawable/game_menu_button"/>
+        <TextView
+            android:id="@+id/follow_super_patient_title"
+            android:layout_weight="1"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:textSize="18sp"
+            android:textColor="@color/black"
+            android:layout_marginLeft="4dp"
+            android:text="@string/follow_super_patient_title"/>
+
+        <TextView
+            android:id="@+id/follow_super_patient_points"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:textStyle="italic"
+            android:textColor="@color/black"
+            android:textSize="16sp"
+            android:text="0"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:textStyle="italic"
+            android:textColor="@color/black"
+            android:textSize="16sp"
+            android:layout_marginRight="12dp"
+            android:text=" pts"/>
+    </LinearLayout>
+    <LinearLayout
+        android:id="@+id/follow_super_patient_table_space"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:orientation="vertical">
+
+<LinearLayout
+    android:id="@+id/follow_super_patient_rows"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+        <LinearLayout
+
+            android:id="@+id/follow_super_patient_layoutrow_1"
+            style="@style/followSuperPatientCellsLayout"
+            >
+            <LinearLayout
+                style="@style/followSuperPatientCell"
+                >
+
+            </LinearLayout>
+            <LinearLayout
+                style="@style/followSuperPatientCell1">
+
+            </LinearLayout>
+            <LinearLayout
+                style="@style/followSuperPatientCell">
+
+            </LinearLayout>
+            <LinearLayout
+                style="@style/followSuperPatientCell1">
+
+            </LinearLayout>
+        </LinearLayout>
+            <LinearLayout
+                android:id="@+id/follow_super_patient_layoutrow_2"
+                style="@style/followSuperPatientCellsLayout"
+                >
+                <LinearLayout
+                    style="@style/followSuperPatientCell1"
+                    >
+
+                </LinearLayout>
+                <LinearLayout
+                    style="@style/followSuperPatientCell">
+
+                </LinearLayout>
+                <LinearLayout
+                    style="@style/followSuperPatientCell1">
+
+                </LinearLayout>
+                <LinearLayout
+                    style="@style/followSuperPatientCell">
+
+                </LinearLayout>
+            </LinearLayout>
+            <LinearLayout
+                android:id="@+id/follow_super_patient_layoutrow_3"
+                style="@style/followSuperPatientCellsLayout"
+                >
+                <LinearLayout
+                    style="@style/followSuperPatientCell"
+                    >
+
+                </LinearLayout>
+                <LinearLayout
+                    style="@style/followSuperPatientCell1">
+
+                </LinearLayout>
+                <LinearLayout
+                    style="@style/followSuperPatientCell">
+
+                </LinearLayout>
+                <LinearLayout
+                    style="@style/followSuperPatientCell1">
+
+                </LinearLayout>
+            </LinearLayout>
+            <LinearLayout
+                android:id="@+id/follow_super_patient_layoutrow_4"
+                style="@style/followSuperPatientCellsLayout"
+                >
+                <LinearLayout
+                    style="@style/followSuperPatientCell1"
+                    >
+
+                </LinearLayout>
+                <LinearLayout
+                    style="@style/followSuperPatientCell">
+
+                </LinearLayout>
+                <LinearLayout
+                    style="@style/followSuperPatientCell1">
+
+                </LinearLayout>
+                <LinearLayout
+                    style="@style/followSuperPatientCell">
+
+                </LinearLayout>
+            </LinearLayout>
+            <LinearLayout
+                android:id="@+id/follow_super_patient_layoutrow_5"
+                style="@style/followSuperPatientCellsLayout"
+                >
+                <LinearLayout
+                    style="@style/followSuperPatientCell"
+                    >
+
+                </LinearLayout>
+                <LinearLayout
+                    style="@style/followSuperPatientCell1">
+
+                </LinearLayout>
+                <LinearLayout
+                    style="@style/followSuperPatientCell">
+
+                </LinearLayout>
+                <LinearLayout
+                    style="@style/followSuperPatientCell1">
+
+                </LinearLayout>
+            </LinearLayout>
+
+</LinearLayout>
+
+        </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_marginBottom="8dp">
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:orientation="vertical"
+            android:gravity="center_horizontal">
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Correct"
+                android:layout_weight="1"
+                style="@style/superSpeedText"/>
+            <TextView
+                android:id="@+id/follow_super_patient_correct"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="0"
+                android:layout_weight="1"
+                style="@style/superSpeedObjects"/>
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:orientation="vertical"
+            android:gravity="center_horizontal">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Time"
+                android:layout_weight="1"
+                style="@style/superSpeedText"/>
+            <TextView
+                android:id="@+id/follow_super_patient_time"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                style="@style/superSpeedObjects"/>
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+    </LinearLayout>
+
+    <ImageView
+        android:id="@+id/follow_super_patient_mark"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:visibility="gone"
+        />
+
+</RelativeLayout>

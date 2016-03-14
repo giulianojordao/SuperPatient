@@ -1,0 +1,238 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <!--<item name="android:actionBarStyle">@style/MyActionBar</item>-->
+        <!--<item name="android:background">@color/Purple</item>-->
+        <!--<item name="android:textColor">@color/white</item>-->
+        <!--<item name="android:gravity">center_horizontal</item>-->
+    </style>
+
+    <style name="buttonFont">
+        <item name="android:textSize">20sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:paddingTop">16dp</item>
+        <item name="android:paddingBottom">16dp</item>
+        <item name="android:textColor">@color/SuperPatientGold</item>
+        <item name="android:background">@color/Purple</item>
+        <item name="android:textAllCaps">false</item>
+
+    </style>
+
+    <style name="termsTitle">
+        <item name="android:textSize">15sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/black</item>
+    </style>
+    <style name="termsParagraph">
+        <item name="android:textSize">15sp</item>
+        <item name="android:paddingLeft">30dp</item>
+        <item name="android:textColor">@color/black</item>
+        <item name="android:lineSpacingExtra">3sp</item>
+        <item name="android:paddingTop">15dp</item>
+        <item name="android:paddingBottom">15dp</item>
+    </style>
+    <style name="termsParagraph2">
+        <item name="android:textSize">15sp</item>
+        <item name="android:paddingLeft">50dp</item>
+        <item name="android:lineSpacingExtra">3sp</item>
+        <item name="android:textColor">@color/black</item>
+        <item name="android:paddingBottom">15dp</item>
+    </style>
+
+    <style name="textPurple">
+        <item name="android:textColor">@color/Purple</item>
+        <item name="android:textSize">18sp</item>
+    </style>
+
+    <style name="textPurpleIntro">
+        <item name="android:textColor">@color/Purple</item>
+        <item name="android:textSize">18sp</item>
+        <!--<item name="android:textStyle">bold</item>-->
+        <item name="android:lineSpacingExtra">2sp</item>
+        <item name="android:gravity">center_horizontal</item>
+        <item name="android:layout_marginTop">18dp</item>
+    </style>
+
+    <style name="textPurpleJournal">
+        <item name="android:textColor">@color/Purple</item>
+        <item name="android:textSize">17sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:paddingTop">4dp</item>
+    </style>
+
+    <style name="textPurpleMain">
+        <item name="android:textColor">@color/Purple</item>
+        <item name="android:textSize">17sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:paddingTop">2dp</item>
+    </style>
+
+    <style name="titleActionBar">
+        <item name="android:textSize">16sp</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:lineSpacingExtra">3sp</item>
+    </style>
+
+    <style name="journalCell">
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:layout_weight">1</item>
+        <item name="android:paddingBottom">6dp</item>
+        <item name="android:gravity">center</item>
+        <item name="android:orientation">vertical</item>
+        <item name="android:clickable">true</item>
+    </style>
+
+    <style name="journalNotFeelingGoodCell">
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:layout_weight">1</item>
+        <item name="android:paddingBottom">6dp</item>
+        <!--<item name="android:gravity">center</item>-->
+        <item name="android:orientation">vertical</item>
+        <item name="android:clickable">true</item>
+    </style>
+
+    <style name="mainCell">
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:layout_weight">1</item>
+        <item name="android:paddingBottom">2dp</item>
+        <item name="android:gravity">center</item>
+        <item name="android:orientation">vertical</item>
+        <item name="android:clickable">true</item>
+    </style>
+
+    <style name="scaleRow">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">0dp</item>
+        <item name="android:layout_weight">1</item>
+        <item name="android:background">@color/Purple</item>
+        <item name="android:layout_marginBottom">8dp</item>
+        <item name="android:clickable">true</item>
+    </style>
+
+    <style name="scaleText">
+        <item name="android:textSize">16sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/SuperPatientGold</item>
+        <item name="android:gravity">center</item>
+        <item name="android:layout_gravity">center</item>
+    </style>
+
+    <style name="scaleTitleActionBar">
+        <item name="android:textSize">20sp</item>
+        <item name="android:textColor">@color/white</item>
+    </style>
+
+    <style name="journalNotFeelingGoodScale">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/Purple</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:layout_marginLeft">-10dp</item>
+    </style>
+
+    <style name="superDigitsButtons">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textColor">@color/Purple</item>
+        <item name="android:textSize">32sp</item>
+        <item name="android:gravity">center</item>
+        <item name="android:background">@drawable/super_digits_button_shape</item>
+    </style>
+
+    <style name="superDigitsTextView">
+        <item name="android:textColor">@color/Purple</item>
+        <item name="android:textSize">50sp</item>
+    </style>
+
+    <style name="gamesLevel">
+        <item name="android:textColor">@color/black</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:textStyle">italic</item>
+    </style>
+
+    <style name="superColorBlockText">
+        <item name="android:textColor">@color/black</item>
+        <item name="android:textSize">26sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:layout_marginTop">12dp</item>
+    </style>
+
+    <style name="superSpeedText">
+        <item name="android:textColor">@color/black</item>
+        <item name="android:textSize">16sp</item>
+    </style>
+
+    <style name="superSpeedObjects">
+        <item name="android:textColor">@color/black</item>
+        <item name="android:textSize">22sp</item>
+    </style>
+
+    <style name="superSpeedCell">
+        <!--<item name="android:padding">2dp</item>-->
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:layout_width">match_parent</item>
+        <!--<item name="android:layout_weight">1</item>-->
+        <item name="android:gravity">center</item>
+        <item name="android:background">@color/JournalGray2</item>
+        <item name="android:clickable">true</item>
+    </style>
+    <style name="superSpeedCell1">
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:gravity">center</item>
+        <item name="android:background">@color/JournalGray1</item>
+        <item name="android:clickable">true</item>
+    </style>
+    <style name="superSpeedImage">
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_centerInParent">true</item>
+        <item name="android:clickable">true</item>
+
+    </style>
+
+    <style name="followSuperPatientCell">
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_weight">1</item>
+        <item name="android:orientation">vertical</item>
+        <item name="android:gravity">center</item>
+        <item name="android:background">@color/JournalGray2</item>
+        <item name="android:clickable">true</item>
+    </style>
+    <style name="followSuperPatientCell1">
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_weight">1</item>
+        <item name="android:orientation">vertical</item>
+        <item name="android:gravity">center</item>
+        <item name="android:background">@color/JournalGray1</item>
+        <item name="android:clickable">true</item>
+    </style>
+
+    <style name="followSuperPatientCellsLayout">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">0dp</item>
+        <item name="android:layout_weight">1</item>
+        <item name="android:orientation">horizontal</item>
+    </style>
+
+    <style name="MyTheme" parent="@android:style/Theme.Holo.Light">
+        <item name="android:actionBarStyle">@style/MyActionBar</item>
+    </style>
+
+    <style name="MyActionBar" parent="@android:style/Widget.Holo.Light.ActionBar">
+        <item name="android:background">@color/Purple</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:gravity">center_horizontal</item>
+    </style>
+
+
+
+</resources>

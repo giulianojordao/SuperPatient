@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android" >
+    <item android:drawable="@drawable/animation2_1" android:duration="95" />
+    <item android:drawable="@drawable/animation2_2" android:duration="95" />
+    <item android:drawable="@drawable/animation2_3" android:duration="95" />
+    <item android:drawable="@drawable/animation2_4" android:duration="95" />
+    <item android:drawable="@drawable/animation2_5" android:duration="95" />
+    <item android:drawable="@drawable/animation2_6" android:duration="95" />
+    <item android:drawable="@drawable/animation2_7" android:duration="95" />
+    <item android:drawable="@drawable/animation2_8" android:duration="95" />
+    <item android:drawable="@drawable/animation2_9" android:duration="95" />
+    <item android:drawable="@drawable/animation2_10" android:duration="95" />
+    <item android:drawable="@drawable/animation2_11" android:duration="95" />
+    <item android:drawable="@drawable/animation2_12" android:duration="95" />
+    <item android:drawable="@drawable/animation2_13" android:duration="95" />
+    <item android:drawable="@drawable/animation2_14" android:duration="95" />
+    <item android:drawable="@drawable/animation2_15" android:duration="95" />
+    <item android:drawable="@drawable/animation2_16" android:duration="95" />
+    <item android:drawable="@drawable/animation2_17" android:duration="95" />
+    <item android:drawable="@drawable/animation2_18" android:duration="95" />
+    <item android:drawable="@drawable/animation2_19" android:duration="95" />
+    <item android:drawable="@drawable/animation2_20" android:duration="95" />
+    <item android:drawable="@drawable/animation2_21" android:duration="95" />
+    <item android:drawable="@drawable/animation2_22" android:duration="95" />
+    <item android:drawable="@drawable/animation2_23" android:duration="95" />
+    <item android:drawable="@drawable/animation2_24" android:duration="95" />
+    <item android:drawable="@drawable/animation2_25" android:duration="95" />
+    <item android:drawable="@drawable/animation2_26" android:duration="95" />
+    <item android:drawable="@drawable/animation2_27" android:duration="95" />
+    <item android:drawable="@drawable/animation2_28" android:duration="95" />
+    <item android:drawable="@drawable/animation2_29" android:duration="95" />
+    <item android:drawable="@drawable/animation2_30" android:duration="95" />
+    <item android:drawable="@drawable/animation2_31" android:duration="95" />
+    <item android:drawable="@drawable/animation2_32" android:duration="95" />
+    <item android:drawable="@drawable/animation2_33" android:duration="95" />
+    <item android:drawable="@drawable/animation2_34" android:duration="95" />
+    <item android:drawable="@drawable/animation2_35" android:duration="95" />
+    <item android:drawable="@drawable/animation2_36" android:duration="95" />
+    <item android:drawable="@drawable/animation2_37" android:duration="95" />
+    <item android:drawable="@drawable/animation2_38" android:duration="95" />
+    <item android:drawable="@drawable/animation2_39" android:duration="95" />
+    <item android:drawable="@drawable/animation2_40" android:duration="95" />
+    <item android:drawable="@drawable/animation2_41" android:duration="95" />
+    <item android:drawable="@drawable/animation2_42" android:duration="95" />
+
+</animation-list>
